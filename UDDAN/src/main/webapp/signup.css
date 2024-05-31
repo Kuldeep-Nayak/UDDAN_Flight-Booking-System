@@ -1,0 +1,131 @@
+nav {
+  padding: 2%;
+  display: flex;
+  justify-content: space-around;
+  height: 85px;
+    width: 85%;
+    position: absolute;
+    padding: 0 30px;
+    top: 0;
+    left: 5%;
+    background: #fce5e5;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 12px;
+    box-shadow: 12px 10px 10px 0 rgba(0, 0, 0, 0.279);
+}
+nav a {
+  color: black;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+  color: rgb(140, 34, 240);
+  background-color: #eda0c9;
+  transform: translate(10px, 20px);
+  transform: scale(1,2);
+  
+}
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.split-screen {
+  display: flex;
+  flex-direction: column;
+}
+
+.right {
+  display: flex;
+  padding-top: 20%;
+  justify-content:center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+
+}
+.left-login-image {
+  width: 40vw;
+} 
+.right {
+  border: #130101aa 2px;
+}
+
+.right form {
+  width: 398px;
+  height: 400px;
+  border: #130101aa 1px;
+  margin-bottom: 20%;
+} 
+.login{
+  padding-top: 10px;
+  font-size:medium;
+}
+form input[type="text"],
+form input[type="Email"],
+form input[type="Password"] {
+  display: block;
+  width: 100%;
+  height: 68%;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border: 1px solid #72f878;
+  padding: 9px;
+  margin-bottom: 1.25rem;
+  font-size: 0.875rem;
+} 
+label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 15px;
+} 
+#signup{
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-left: 40%;
+  font-size: medium;
+  cursor: pointer;
+
+  padding-block: 7px;
+  width: 85px;
+}
+.web-name h2 {
+  font-size: 30px;
+  font-weight: 450;
+  color: #33c747;
+  text-shadow: #130101aa;
+}
+form {
+  background-color: #ddf6ffaf;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  height: 100%;
+  justify-content:last baseline;
+  height:auto ;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border: 1px solid gray;
+  padding: 10px;
+  margin-bottom: 15px;
+  font-size: 0.875rem;
+}
