@@ -24,4 +24,4 @@ Payment page : When the user click on the pay option in Result page, the user is
 
 ![WhatsApp Image 2023-12-26 at 23 35 50_84e4dfb4](https://github.com/Kuldeep-Nayak/UDDAN_Flight-Booking-System/assets/138770146/c5e6a51b-fa93-4b68-94e8-80e6790a46da)
 
-This is a team projects of 4 members during Internet and Web Technology Lab in 5th semester.
+This is a team project of 4 members during Internet and Web Technology Lab in 5th semester during B.Tech. CSE.
