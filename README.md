@@ -26,6 +26,6 @@ Implementation Screen Shot
 
 #### This is a team project of 4 members in the Internet and Web Technology Lab in 5th semester during B.Tech. CSE.
 #### Other team members of this project:
-Amit Kumar: https://github.com/Amit-svg-crypto  
-Dipteswar Nayak: https://github.com/DIPTESWAR  
-Rishav Kumar Das: https://github.com/Rishav9399
+**Amit Kumar**: https://github.com/Amit-svg-crypto  
+**Dipteswar Nayak**: https://github.com/DIPTESWAR  
+**Rishav Kumar Das**: https://github.com/Rishav9399
